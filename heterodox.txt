@@ -1,0 +1,28 @@
+# Heterodox Technology
+
+Many people, who disagree on most things, agree that they need foundational
+software technologies that they can reach in and change.
+
+## Heterogeneous motivations
+
+- Computer science
+- Digital archives
+- Retro-computing
+- Distributed computing
+- Privacy
+- Free software
+- ...
+
+## Homogeneous solutions
+
+- Virtual machine
+- Programming language
+- Platform
+- Standard libraries
+- Accelerators
+- Key applications:
+  - Messaging
+  - Publishing
+  - Apps
+  - ...
+- ...
