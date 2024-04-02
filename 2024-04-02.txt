@@ -2,6 +2,8 @@ Peter Clay: "First class citizen of the internet is a process that can send and 
 
 Martin Keegan desires "the universal availability of general purpose computing devices capable of unrestricted end-to-end communication".
 
+## Martin's strategy points
+
 Reject social inequality (e.g. reject installing new software) => Delegate to Big Tech
 
 Extensibility of a tech standard (which always exists) tends to result in complexity such that only big commercial players can implement and influence it.
@@ -10,3 +12,7 @@ Standards that promote [our desiderata] are vulnerable to subversion. It's a zer
 TODO: What are the desiderata? Is making technology inextensible necessarily the solution?
 
 Easier to see foundational tech that doesn't exist; harder to recognise that we already have some important ones: SSL, HTTP, mime types, IP, etc.
+
+## Common language library project
+
+TODO: Write up Alistair's vision.
