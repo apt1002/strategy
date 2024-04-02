@@ -23,7 +23,7 @@ some sort. Without it:
 The old ways of doing these things still work, of course, but they are
 relatively terrible, and increasingly unfamiliar. It cannot be long before
 computers will be necessary for buying essential food and clothes, paying
-utililty bills, owning a house, and participating in politics.
+utility bills, owning a house, and participating in politics.
 
 Most people rely on software written by other people, and in particular by big
 technology companies including Microsoft, Apple, Google, Meta, and others [GAFAM]. The
