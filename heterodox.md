@@ -123,7 +123,7 @@ Studying the solutions people have come up with reveals many common elements.
 - ...
 
 
-## Proprosal
+## Proposal
 
 We write a bunch of adaptable foundational technologies, incorporating current
 best practice.
