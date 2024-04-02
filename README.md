@@ -9,6 +9,10 @@ motivate our projects and to give them context in a shared vision. We do not
 expect to enforce on each other any kind of agenda; we opt in only for mutual
 benefit.
 
+## [Heterodox Technology](heterodox.md)
+
+## [Projects currently underway](projects.md)
+
 ## Participants
 
 - [Alistair](https://github.com/apt1002)
