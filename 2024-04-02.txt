@@ -1,0 +1,12 @@
+Peter Clay: "First class citizen of the internet is a process that can send and receive arbitrary data."
+
+Martin Keegan desires "the universal availability of general purpose computing devices capable of unrestricted end-to-end communication".
+
+Reject social inequality (e.g. reject installing new software) => Delegate to Big Tech
+
+Extensibility of a tech standard (which always exists) tends to result in complexity such that only big commercial players can implement and influence it.
+
+Standards that promote [our desiderata] are vulnerable to subversion. It's a zero-sum game because the switching cost (of establishing a new standard) is prohibitive. You've lost the user community and the brand name. Foundational technologies should therefore be inextensible (!).
+TODO: What are the desiderata? Is making technology inextensible necessarily the solution?
+
+Easier to see foundational tech that doesn't exist; harder to recognise that we already have some important ones: SSL, HTTP, mime types, IP, etc.
