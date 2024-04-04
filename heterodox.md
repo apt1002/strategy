@@ -1,9 +1,7 @@
 # Heterodox Technology
 
-[It is a shame this is not a Google Doc (I know!) to be commented on. What’s the best we can do for that?]
-
-Many people[who?], who disagree on most things[which?], agree that they need foundational
-software technologies that they can reach into and change.
+Many people[who?], who disagree on most things[which?], agree that they need
+foundational software technologies that they can reach into and change.
 
 
 ## Big Tech versus society
@@ -15,7 +13,7 @@ some sort. Without it:
 - You cannot publish.
 - You cannot organise.
 - You cannot keep records.
-- You cannot buy specialist goods, such as dance shoes [3 shops within walking distance of our flat in Berlin].
+- You cannot buy specialist goods, such as dance shoes.
 - You cannot have a bank account.
 - You cannot pay your taxes.
 - You cannot even watch TV.
@@ -26,12 +24,12 @@ computers will be necessary for buying essential food and clothes, paying
 utility bills, owning a house, and participating in politics.
 
 Most people rely on software written by other people, and in particular by big
-technology companies including Microsoft, Apple, Google, Meta, and others [GAFAM]. The
+technology companies including Microsoft, Apple, Google, Meta, and others. The
 downside of such a small group of companies having so much influence is
 obvious, and I don't need to rehearse it here. However, it is an efficient way
 to serve the mass market [it’s a local maximum], and I'm sure it will continue.
 
-Most [many?] organisations need more control than that [than what? for what? most organizations use cloud-based subscription services from GAFAM, surely?], and require custom software [so they don’t require custom software].
+Many organisations need more control than that [than what? for what? most organizations use cloud-based subscription services from GAFAM, surely?], and require custom software [so they don’t require custom software].
 The same is true of many creative individuals, including researchers, artists
 and entrepreneurs. Such software is written to serve only thousands of people,
 or even fewer. Often this software must be written by a specialist programmer,
@@ -41,13 +39,13 @@ expense, and an obstacle.
 
 The situation is comparable to the 18th century, in which most people could
 not read and write, and relied heavily on the services of professional
-scribes, priests, and each other. Many gave up any prospect of understanding
-the world around them, of control over their lives, and of advancement in
-society. Such people were vulnerable and generally oppressed. They were often
-the victims of scams, and their lives were full of risk. Such a situation is
-not healthy, and it is getting worse [worth noting some differences? e.g. many scams rely on decline in face-to-face interaction, which largely survived oral→written→postal transitions: imagine a world in which by the 1960s most banks had closed down and banking was conducted by post].
+scribes, translators, priests, and each other. Many gave up any prospect of
+understanding the world around them, of control over their lives, and of
+advancement in society. Such people were vulnerable and generally oppressed.
+They were often the victims of scams, and their lives were full of risk. Such a
+situation is not healthy, and it is getting worse [worth noting some differences? e.g. many scams rely on decline in face-to-face interaction, which largely survived oral→written→postal transitions: imagine a world in which by the 1960s most banks had closed down and banking was conducted by post].
 
-On current trends, most of us, if inactive [as in “if we do nothing”?], will eventually find ourselves
+On current trends, most of us, if we do nothing, will eventually find ourselves
 part of a digitally illiterate underclass. A 21st century person who cannot
 use a computer will be like an 18th century person who cannot read, and a 21st
 century person who cannot program will be like an 18th century person who
@@ -55,12 +53,13 @@ cannot write. This widespread illiteracy is not good for anybody. It's bad for
 those who do become helpless; it's bad for those struggling not to be; and
 it's bad for those who end up supporting everybody else.
 
-The solution is not Luddism [debatable]. The incipient computer revolution, like the
-ongoing industrial revolution, is happening for good reasons [good reasons ⇒ strong forces], and will not
-wait [true enough].
+The solution is not Luddism [debatable]. The incipient computer revolution,
+like the ongoing industrial revolution, is happening because of strong forces,
+and will not wait.
 
-The solution is not the destruction of Big Tech [also debatable], though we must at least
-partially escape from reliance on software written by other people.
+The solution is not the destruction of Big Tech [also debatable], though we
+must at least partially escape from reliance on software written by other
+people.
 
 The solution is foundational technologies that people can reach into and
 change [these are not a solution, these are a must have; if they’re incompatible with Luddism and/or Big Tech, then what gives?].
@@ -83,7 +82,7 @@ Big Tech [why not? Apple already built the world’s biggest company on making c
 
 We can learn from those who are already shunning mainstream technologies in
 favour of software that they can more easily control. There are many such
-people, and they have very little motivation in common [this second bit is key to why it’s a good idea to look to them—otherwise like saying in the 60s that we should look to hippies to see how to deal with climate change].
+people, and they have very little motivation in common.
 
 [Each item becomes a short subsection, relying on external links.]
 
@@ -99,42 +98,15 @@ people, and they have very little motivation in common [this second bit is key t
 
 ## Homogeneous solutions
 
-Studying the solutions people have come up with reveals many common elements.
+Studying the solutions people have come up with reveals many common elements:
 
-[Each item becomes a subsection.]
+- *Virtual machines*: Writing programs for an abstract machine is a cheap way of giving them a long life and broad compatibility.
+- *Programming languages*: Anything sufficiently complex ends up being controlled by a programming language.
+- *Package managers*: Anything with enough authors ends up needing a way of naming their creations and of tracking their versions and dependencies.
+- *Social graphs*: Anything with enough users ends up grappling with concepts of ownership, groups, permission and delegation.
+- *Secure networking*: Anything involving communication suffers the same kinds of attacks, and requires the same kind of defences.
 
-- Virtual machine
-- Programming language
-- Platform
-  - Standard libraries
-  - Accelerators
-  - User interfaces
-  - Protocols
-- Packaging
-  - Distribution
-  - Naming
-  - Dependencies
-  - Versions
-- Key applications:
-  - Messaging
-  - Publishing
-  - Apps
-  - ...
-- ...
-
-
-## Proposal
-
-We write a bunch of adaptable foundational technologies, incorporating current
-best practice.
-
-It's almost always better to add an expert system to an existing programming
-language than to add a programming language to an existing expert system. The
-same goes for virtual machines, platforms, and package managers. We need to
-make sure that the foundational technologies exist, such that experts can add
-their systems to them.
-
-[Go into more detail.]
+[Need to flesh this out, relying on external links.]
 
 ### It doesn't have to be good
 
@@ -145,4 +117,54 @@ point. It doesn't need to be optimised for the mass market. It doesn't need to
 be at the forefront of technology. It doesn't need to have tens of millions of
 dollars spent on polish. It just needs to do its job, and to be easy to make.
 
-[Martin can help us with citations.]
+
+## Proposal
+
+We propose to write a bunch of adaptable foundational technologies. The idea is to provide simple, wise solutions to the problems that "everybody" needs to solve, in order to allow people to focus on whatever is unique to their situation.
+
+What makes a technology foundational? We think these are important criteria:
+
+- *Useful*: The technology should do something that many people need.
+- *Feasible*: Providing the technology must be within our capabilities.
+- *Simple*: A user should ideally be able to learn how to use the technology on the day that they discover that they need it. Note that the technology does not necessarily need to be internally simple.
+- *Wise*: The technology must do something that the user might struggle to do well without it. It must be non-trivial. It should incorporate expert best practice. It should avoid common pitfalls.
+- *Replicable*: The technology must be easily copied. The value of a technology that can serve one person is negligible beside that of a technology that can serve a million.
+- *Modular*: While the technology provides a standard solution for people with standard needs, it must be easily replaceable by people who need something else. The technology must assume as little as possible about the context in which it is used. Integrated technologies are unhelpful.
+- *High quality*: The technology must avoid flaws that would spoil projects built on top of it. Notably, the technology must be efficient, reliable and secure.
+
+We have compiled a list of technologies that we think could meet these criteria:
+
+- *Virtual machine*: abstracts CPU and memory, low-level portability
+- *Programming language*: the glue which holds everything else together
+- *Platform*
+  - Standard libraries: common programming components that many people need
+  - Accelerators: things without which software is uncompetitively inefficient
+  - User interfaces
+  - Databases: persistent, multiuser, larger than memory
+  - Protocols: already existing, and novel
+- *Packaging*
+  - Distribution
+  - Naming
+  - Dependencies
+  - Versions
+- *Social graph*
+  - Accounts: identifying information, contact details
+  - Groups: accounts controlled by one or more other accounts
+  - Ownership: permission, delegation
+  - Friendship: levels of trust
+  - News: aggregation and filtering of timely information
+- *Secure networking*
+  - Authentication: passwords, certificates
+  - Encryption
+  - Addresses: name resolution, routing
+- *Key applications*
+  - Messaging
+  - Publishing
+  - Collaborative editing: version control, issue tracking
+  - Apps: untrusted programs, principle of least privilege
+
+Some of these exist already. Some we are writing. Some are neglected.
+
+### Organisations
+
+- *Pubnix* organisations: always-on, public presence, can write and execute your own code.
