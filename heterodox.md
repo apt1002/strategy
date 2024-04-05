@@ -1,7 +1,9 @@
 # Heterodox Technology
 
-Many people[who?], who disagree on most things[which?], agree that they need
-foundational software technologies that they can reach into and change.
+Many people, ranging from technology enthusiasts to political activists, who
+disagree on many issues around how technology should be regulated, agree
+that they need foundational software technologies that they can reach into
+and change.
 
 
 ## Big Tech versus society
@@ -23,27 +25,36 @@ relatively terrible, and increasingly unfamiliar. It cannot be long before
 computers will be necessary for buying essential food and clothes, paying
 utility bills, owning a house, and participating in politics.
 
-Most people rely on software written by other people, and in particular by big
-technology companies including Microsoft, Apple, Google, Meta, and others. The
-downside of such a small group of companies having so much influence is
-obvious, and I don't need to rehearse it here. However, it is an efficient way
-to serve the mass market [it’s a local maximum], and I'm sure it will continue.
+Most people rely on software written by other people, and in particular by
+big technology companies including Microsoft, Apple, Google, Meta, and
+others. The downside of such a small group of companies having so much
+influence is obvious, and I don't need to rehearse it here. However, the
+current arrangements are entrenched, and likely to continue.
 
-Many organisations need more control than that [than what? for what? most organizations use cloud-based subscription services from GAFAM, surely?], and require custom software [so they don’t require custom software].
-The same is true of many creative individuals, including researchers, artists
-and entrepreneurs. Such software is written to serve only thousands of people,
-or even fewer. Often this software must be written by a specialist programmer,
-who is not an expert in whatever purpose the software is supposed to serve.
-This disconnect, and the shortage of specialist programmers, is a significant
-expense, and an obstacle.
+However, mass-market software fails to give many user communities what they
+want. Many communities have their own specialist software; to give a few
+examples: organists (programs to run computerized organs), genealogists
+(specialised database software to track family trees); and divers (combining
+and displaying information from various sources into a dive log). Below the
+level of a community that can support a small software developer, it is
+often beyond the resources of smaller groups (businesses, families,
+charities), let alone individuals, to produce custom software for their
+particular needs, while using mass-market software is often unsatisfactory,
+as it does not capture “business logic” that could easily be automated in
+principle. Usually, such software must be written by a specialist
+programmer, who is rarely expert in whatever purpose the software is
+supposed to serve. This disconnect, and the shortage of specialist
+programmers, is a significant expense, and an obstacle.
 
 The situation is comparable to the 18th century, in which most people could
 not read and write, and relied heavily on the services of professional
 scribes, translators, priests, and each other. Many gave up any prospect of
 understanding the world around them, of control over their lives, and of
 advancement in society. Such people were vulnerable and generally oppressed.
-They were often the victims of scams, and their lives were full of risk. Such a
-situation is not healthy, and it is getting worse [worth noting some differences? e.g. many scams rely on decline in face-to-face interaction, which largely survived oral→written→postal transitions: imagine a world in which by the 1960s most banks had closed down and banking was conducted by post].
+They were often the victims of scams, and their lives were full of risk.
+Such a situation is not healthy, and it is getting worse, especially owing
+to the increase in important transactions that are no longer made face to
+face, using technologies whose nuances are unintuitive to many users.
 
 On current trends, most of us, if we do nothing, will eventually find ourselves
 part of a digitally illiterate underclass. A 21st century person who cannot
@@ -53,16 +64,15 @@ cannot write. This widespread illiteracy is not good for anybody. It's bad for
 those who do become helpless; it's bad for those struggling not to be; and
 it's bad for those who end up supporting everybody else.
 
-The solution is not Luddism [debatable]. The incipient computer revolution,
-like the ongoing industrial revolution, is happening because of strong forces,
-and will not wait.
+Market forces have so far overwhelmed most attempts to resist the
+encroachments of technology; Luddism does not work. Nor does it seem likely
+that we will be able to get rid of Big Tech, though it is increasingly
+regulated [though we must at least partially escape from reliance on
+software written by other people].
 
-The solution is not the destruction of Big Tech [also debatable], though we
-must at least partially escape from reliance on software written by other
-people.
-
-The solution is foundational technologies that people can reach into and
-change [these are not a solution, these are a must have; if they’re incompatible with Luddism and/or Big Tech, then what gives?].
+In order to regain control of our technologically-based lives, we need
+foundational technologies that people can reach into and change. It remains
+to be seen to what degree these are attainable under the present system.
 
 Programming (or whatever it will be called in the future) needs to be reframed
 as a basic literacy skill. Programming must be easy: children will need to
@@ -74,8 +84,8 @@ I dare not predict what programming will look like in twenty years. I do
 predict, however, that the way ordinary people use computers will converge
 with the way computers are programmed. The trend in that direction is already
 clear. But the digital literacy deficit is not going to close automatically.
-Somebody needs to invent the missing foundational technologies. It won't be
-Big Tech [why not? Apple already built the world’s biggest company on making computers easier to use.].
+Somebody needs to invent the missing foundational technologies. We can't rely on
+Big Tech.
 
 
 ## Heterogeneous motivations
